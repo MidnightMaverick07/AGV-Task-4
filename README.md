@@ -122,14 +122,7 @@ This prevents infinite loops.
 **Issue:** RRT* struggles in tight spaces  
 **Status:** Still partially unresolved  
 
----
 
-## Results
-
-- Successfully generates a path using RRT*  
-- Agent follows path with reasonable stability  
-- Handles most corner cases  
-- Still struggles in very narrow passages  
 
 ---
 
@@ -172,4 +165,4 @@ Subhojeet Ghosh
 
 ---
 
-If you found this useful, feel free to star the repo.
+
